@@ -1,0 +1,28 @@
+{
+  "name": "e7",
+  "version": "1.0.0",
+  "main": "code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node code.js"
+  },
+  "engines": {
+    "node": "14.16.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmedmaged-7/e7.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmedmaged-7/e7/issues"
+  },
+  "homepage": "https://github.com/ahmedmaged-7/e7#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
